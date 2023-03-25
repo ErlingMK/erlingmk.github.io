@@ -1,37 +1,40 @@
 [
 	{
-		"title":"Padel",
-		"date": "13-01-2023",
-		"time": "16:00",
-		"location": "Økern",
-		"description": "En lengre beskrivelse om hva og hvordan, m.m."
+		"display": "April",
+		"events": [
+			{
+				"title": "Padel",
+				"date": "13-01-2023",
+				"time": "16:00",
+				"location": "Økern",
+				"description": "En lengre beskrivelse om hva og hvordan, m.m."
+			},
+			{
+				"title": "Ølsmaking",
+				"date": "16-01-2023",
+				"time": "16:00",
+				"location": "Kontoret",
+				"description": "En lengre beskrivelse om hva og hvordan, m.m."
+			}
+		]
 	},
 	{
-		"title":"Ølsmaking",
-		"date": "16-01-2023",
-		"time": "16:00",
-		"location": "Kontoret",
-		"description": "En lengre beskrivelse om hva og hvordan, m.m."
-	},
-	{
-		"title":"Padel",
-		"date": "22-01-2023",
-		"time": "16:00",
-		"location": "Økern",
-		"description": "En lengre beskrivelse om hva og hvordan, m.m."
-	},
-	{
-		"title":"Annet",
-		"date": "25-01-2023",
-		"time": "16:00",
-		"location": "Kontoret",
-		"description": "En lengre beskrivelse om hva og hvordan, m.m."
-	},
-	{
-		"title":"Escape room",
-		"date": "29-01-2023",
-		"time": "16:00",
-		"location": "Ett escape room",
-		"description": "En lengre beskrivelse om hva og hvordan, m.m."
+		"display": "April",
+		"events": [
+			{
+				"title": "Padel",
+				"date": "22-01-2023",
+				"time": "16:00",
+				"location": "Økern",
+				"description": "En lengre beskrivelse om hva og hvordan, m.m."
+			},
+			{
+				"title": "Annet",
+				"date": "25-01-2023",
+				"time": "16:00",
+				"location": "Kontoret",
+				"description": "En lengre beskrivelse om hva og hvordan, m.m."
+			}
+		]
 	}
 ]
